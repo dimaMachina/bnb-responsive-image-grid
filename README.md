@@ -11,6 +11,6 @@ See in details `example/index.js`
 
 ![Demo](https://raw.githubusercontent.com/B2o5T/airbnb-responsive-image-grid/master/public/images/repo-demo.png)
 
-## Use in (Nomad Immobilier)[https://nomad.immo]
+## Use in (Nomad Immobilier)[http://nomad.immo]
 
 ![Demo](https://raw.githubusercontent.com/B2o5T/airbnb-responsive-image-grid/master/public/images/real-demo.png)

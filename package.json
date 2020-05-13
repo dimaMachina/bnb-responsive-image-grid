@@ -1,14 +1,18 @@
 {
   "name": "airbnb-responsive-image-grid",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "AirBnb Responsive Image Grid",
+  "author": "Dimitri POSTOLOV <dmytropostolov@gmail.com>",
+  "main": "src",
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
+    "react-bnb-gallery": "1.1.8",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "reflexbox": "^4.0.6",
+    "styled-components": "^5.1.0",
+    "styled-system": "^5.1.5"
   },
   "scripts": {
     "start": "react-scripts start",

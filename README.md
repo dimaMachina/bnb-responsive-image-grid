@@ -1,5 +1,5 @@
 
-## airbnb-responsive-image-grid
+## bnb-responsive-image-grid
 
 ---
 
